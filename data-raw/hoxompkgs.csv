@@ -1,0 +1,35 @@
+full_name,description
+dichika/caption,"NA"
+dichika/howaboutyou,"NA"
+dichika/myFitbit,"NA"
+dichika/myJawbone,"NA"
+dichika/timecard,"NA"
+dichika/yeah,sounds 'yeah'
+gghatano/retrosheet,"NA"
+hoxo-m/densratio,R Package for Density Ratio Estimation
+hoxo-m/fixer,Tools for Fix Functions in R Packages
+hoxo-m/githubinstall,You can install R packages on GitHub by only repository names.
+hoxo-m/KLIEP,Kullback-Leiblar Importance Estimation Procedure (with Cross Validation)
+hoxo-m/magicfor,magicfor - Magic Functions to Obtain Results from for Loops in R
+hoxo-m/mergetree,"NA"
+hoxo-m/pforeach,Easy to parallel processing in R
+hoxo-m/SparkRext,SparkR extension for closer to dplyr
+teramonagi/gigamonagi,"Package of me, by me, for me in R"
+teramonagi/RODBCDBI,An implementation of R's DBI interface using ODBC package as a back-end. This allows R to connect to any DBMS that has a ODBC driver.
+uribo/esa.io,:hatching_chick: `esa` API `v1` Wrapper Package
+uribo/motivator,:package: Keep and improve working motivation
+uribo/SUmisc,Personal miscellaneous :registered: Functions
+uribo/wakatimer,:hourglass: Unofficial RStudio (IDE for R) WakaTime (https://wakatime.com) plugin.
+yamano357/rTinySegmenter,TinySegmenter for R
+yutannihilation/cesiumr,Cesium.js for R
+yutannihilation/estatapi,R package for e-Stat API in Japan
+yutannihilation/ggPotatoL,A prototype of ggHoxoM
+yutannihilation/highstockR,An R package to draw highstock charts. This is for demonstration purpose of htmlwidgets at 46th Tokyo.R meeting.
+yutannihilation/kokudosuuchi,国土数値情報ダウンロードサービスWeb APIからデータを取得するためのRパッケージです
+yutannihilation/mukiau,Face the dark.
+yutannihilation/qiitaddin,An RStudio addin to post a knitted R Markdown file to Qiita
+yutannihilation/RRustFib,Rust Fibonacci Calculator
+sinhrks/ggfortify,Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages.
+kos59125/DYM,Adds 'Did you mean' feature to the R interactive
+kos59125/shadowy,A RESTful API Framework for R
+kos59125/soracomr,SORACOM API Client in R

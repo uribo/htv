@@ -1,0 +1,35 @@
+Package: htv
+Type: Package
+Title: HOXOM that Japanese Secret Society of Data Science
+Version: 1.0.0
+Date: 2016-03-21
+Authors@R: c(person(given = "Shinya", family = "Uryu", 
+                                            email = "suika1127@gmail.com", 
+                                            role  = c("aut", "cre")))
+Description: We are 'HOXO-M' anonymous data analysis and R user group in Japan!!!
+URL: https://github.com/uribo/htv, http://suryu.me/demo/Hoxom.html
+BugReports: https://github.com/uribo/htv/issues
+Depends:
+    R (>= 3.2.0)
+License: MIT + file LICENSE
+Imports:
+  ctv,
+  devtools,
+  dplyr,
+  gh,
+  githubinstall,
+  lambdaR,
+  magrittr,
+  pforeach,
+  XML
+Remotes:
+  gaborcsardi/gh,
+  hoxo-m/githubinstall,
+  hoxo-m/lambdaR,
+  hoxo-m/pforeach
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Encoding: UTF-8
+Suggests:
+  assertr,
+  readr
